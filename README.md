@@ -74,4 +74,4 @@ pytest -k "forms or popup" -v
 
 ## ✨ Autor
 
-Proyecto desarrollado por *Florencia Porcel* como práctica de QA Automation.
+Proyecto desarrollado por *Florencia* como práctica de QA Automation.
