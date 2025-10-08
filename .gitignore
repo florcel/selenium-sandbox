@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Reportes de Allure
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
